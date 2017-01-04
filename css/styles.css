@@ -35,3 +35,10 @@ span {
   font-family: courier;
   overflow-y: scroll;
 }
+
+.pokemon-info{
+  /*display: none;*/
+}
+.form{
+  display: none;
+}
